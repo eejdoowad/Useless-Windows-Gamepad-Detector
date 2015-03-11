@@ -1,0 +1,1 @@
+A windows Gamepad Status Detector I wrote up once upon a time ago. I've since lost the source code. Used SFML.
